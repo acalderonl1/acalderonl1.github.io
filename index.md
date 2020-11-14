@@ -8,7 +8,7 @@ Pagina Personal de  Abdón Calderón
 ></df-messenger>
 
 Aprendizaje de Mask
-<div>Teachable Machine Image Model</div>
+<diiv><b>Identificación de Mascarilla</b></div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
 <div id="label-container"></div>
