@@ -7,6 +7,7 @@ Pagina Personal de  Abdón Calderón
   language-code="es"
 ></df-messenger>
 
+Aprendizaje de Mask
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
